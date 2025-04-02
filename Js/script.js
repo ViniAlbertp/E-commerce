@@ -1,17 +1,4 @@
-const posts = [
-    {
-      titulo: "Como montar sua loja virtual do zero",
-      resumo: "Veja os passos essenciais para começar a vender online.",
-      link: "post-loja-virtual.html"
-    },
-    
-    {
-        titulo: "5 dicas para aumentar suas vendas no Instagram",
-        resumo: "Use o poder das redes sociais para crescer seu e-commerce.",
-        link: "post-instagram.html"
-      }
-      
-  ];
+
   
   const container = document.getElementById("postsContainer");
   
